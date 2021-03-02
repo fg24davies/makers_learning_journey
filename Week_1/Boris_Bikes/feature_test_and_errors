@@ -1,7 +1,13 @@
 what is a feature test?
 
+bike.working?
+  if true
+    docking station.release_bike
+  end
+return bike
+
 what is the stack trace?
-my understanding of a stack trace is the 
+my understanding of a stack trace is the traceback - how the program is run and then where the error can be found 
 
 
 Snapshot of my IRB:
@@ -16,6 +22,13 @@ Traceback (most recent call last):
 NameError (uninitialized constant DockingStation)
 3.0.0 :002 > docking_station = DockingStation.new
 
+Type of Error: Name Error
+
+File path where the error occurred: /Users/floradavies/.rvm/rubies/ruby-3.0.0/bin/irb:23:in `<main>'
+
+Line number of the error: ##1: from (irb):1:in `<main>'##. The Error occurred in line 1 of IRB
+
+Ruby Documentation on Errors
 
 
 
