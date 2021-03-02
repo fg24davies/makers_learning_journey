@@ -27,10 +27,10 @@ Bike |  working_bike?
 Docking Station | release_bike
 
 Bike <--- (send message) -- working_bike? --- receive message --> true/false
+Docking Station <--- (send message) -- release_bike --- receive message ---> a bike is free
 
-bike.working?
-  if true
-    docking station.release_bike
+Domain Model
+
    
 
 
