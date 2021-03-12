@@ -40,8 +40,19 @@ describe Dice do
     expect(roll1).not_to eq(roll2)
   end
 
-  it 'can roll any number of dice at the same time' do
-    expect(Dice).to respond_to(:new).with_unlimited_arguments
-  end 
+  # it 'can roll any number of dice at the same time' do
+  #   expect(Dice).to respond_to(:new).with_unlimited_arguments
+  # end 
   
+  # it 'can record each dice roll' do 
+  #   expect(subject.result).to 
+  # end
 end
+
+
+# 
+# 
+# 
+# 
+# 
+#
