@@ -157,7 +157,8 @@ Don't forget to model the `cat.jpg` request and response.
   </body>
 </html>
 ```
-
+![image](https://user-images.githubusercontent.com/30720508/111869292-91313700-8976-11eb-8819-d4d8b7617140.png)
+￼
 ## Resources
 
 * [Example HTTP GET request and response](https://www.jmarshall.com/easy/http/#sample)
