@@ -1,4 +1,4 @@
-# SELECT from nobel Tutorial on SQLZoo
+# SELECT from nobel Tutorial on [SQLZoo](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)
 
 Some answers evidencing practise of SQL basics.
 Completed SELECT basics and SELECT from world previous to this. 
@@ -59,3 +59,4 @@ WHERE (subject = 'Physics' AND yr = 1980) OR (subject = 'Chemistry' AND yr = 198
 ```
 
 Resources: [w3schools](https://www.w3schools.com/sql/default.asp)
+
